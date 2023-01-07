@@ -1,0 +1,37 @@
+*{
+    margin: 0;
+    font-family: 'Work Sans', sans-serif;
+}
+h1{
+    font-weight: 700;
+    font-size: 65px;
+    color: #151414;
+}
+p{
+    font-size: 16px;
+    line-height: 26px;
+    color: #444343;
+}
+button{
+    font-size: 20px;
+}
+
+/* header styles */
+
+header{
+    background: url('../images/banner/banner1.png');
+}
+.banner{
+    text-align: right;
+    padding: 216px 230px 216px 845px;
+}
+.primary-btn{
+    background: #F15B22;
+    border: 0;
+    color: #fff;
+    border-radius: 5px;
+    padding: 20px 25px;
+}
+.banner-description{
+    padding: 24px 0 32px;
+}
